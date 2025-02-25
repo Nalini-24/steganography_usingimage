@@ -35,11 +35,10 @@ This will extract and print the hidden message.
 
 ## File Structure
 
-│── steganography.py     # Main script for encoding and decoding
-│── README.md            # Project documentation
-│── input_image.png      # Example input image
-│── stego_image.png      # Output image with hidden message
-
+│── steganography.py     
+│── README.md            
+│── input_image.png      
+│── stego_image.png      
 
 ## How It Works
 1. The message is encrypted using *AES encryption* (Fernet).
